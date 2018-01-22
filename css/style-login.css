@@ -16,4 +16,5 @@ body.login {
     border: medium none;
     border-radius: 0;
     box-shadow: none;
+    text-shadow: none;
 }
